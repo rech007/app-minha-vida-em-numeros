@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "emanoel-brito-arruda",
+    "slug": "snack-59c60356-4238-42a0-8569-4d74af07f023",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.emanoxxz.snack59c60356423842a085694d74af07f023"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "28adb6d2-0035-49c2-a908-85c409743d20"
+      }
+    }
+  }
+}
